@@ -3,5 +3,5 @@
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false 
-*.json linguist-detectable=true
+*.json linguist-detectable=false
 *.svg linguist-detectable=true
